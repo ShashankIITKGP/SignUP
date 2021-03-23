@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/SignUP/static/js/main.6bfb4ac8.chunk.js",
+    "main.js.map": "/SignUP/static/js/main.6bfb4ac8.chunk.js.map",
+    "runtime-main.js": "/SignUP/static/js/runtime-main.d416abed.js",
+    "runtime-main.js.map": "/SignUP/static/js/runtime-main.d416abed.js.map",
+    "static/js/2.8d759b51.chunk.js": "/SignUP/static/js/2.8d759b51.chunk.js",
+    "static/js/2.8d759b51.chunk.js.map": "/SignUP/static/js/2.8d759b51.chunk.js.map",
+    "index.html": "/SignUP/index.html",
+    "static/js/2.8d759b51.chunk.js.LICENSE.txt": "/SignUP/static/js/2.8d759b51.chunk.js.LICENSE.txt",
+    "static/media/checkbox.ae76d127.svg": "/SignUP/static/media/checkbox.ae76d127.svg",
+    "static/media/emptybox.48627c77.svg": "/SignUP/static/media/emptybox.48627c77.svg",
+    "static/media/eye.918bd91d.svg": "/SignUP/static/media/eye.918bd91d.svg",
+    "static/media/eyeslash.ab3e5cb5.svg": "/SignUP/static/media/eyeslash.ab3e5cb5.svg",
+    "static/media/tick.a8532bc9.svg": "/SignUP/static/media/tick.a8532bc9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d416abed.js",
+    "static/js/2.8d759b51.chunk.js",
+    "static/js/main.6bfb4ac8.chunk.js"
+  ]
+}
